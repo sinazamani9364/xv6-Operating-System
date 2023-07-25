@@ -1,5 +1,5 @@
 # xv6-Operating-System
 
-This is the project of my Operating Systems course which uses xv6 OS to work with system calls.
+This is the project of my Operating Systems course which uses xv6 OS which is forked from [xv6-public](https://github.com/mit-pdos/xv6-public).
 
-This includes creating new processes and managing the allocated memory.
+This includes working with system calls, creating new processes and managing the allocated memory.
